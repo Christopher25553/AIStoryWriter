@@ -28,5 +28,6 @@ If you use my work, please **cite my name and the link to this project**:
 
 **Author:** Christopher Teichert (www.cteichert.programs.de)
 **Project:** AIStoryWriter
+**GUI Project:** https://github.com/Christopher25553/AIStoryWriter_GUI
 
 ---
