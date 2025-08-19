@@ -2,6 +2,7 @@
 ---
 
 ## ✍️ AIStoryWriter – Tools for Story Generation & Visualization
+**HINT:** Some texts are in german, feel free to translate them.
 
 The **Story Generator** allows you to generate JSON files for stories with text and images.  
 You can use either a **remote AI** (e.g., an API) or a **locally hosted AI** (e.g., via [LM Studio](https://lmstudio.ai/)).
